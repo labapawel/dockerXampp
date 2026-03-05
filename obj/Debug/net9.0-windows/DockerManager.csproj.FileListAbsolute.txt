@@ -17,3 +17,4 @@ C:\Users\pawel.WSIZPTIBB.000\Documents\WSI\SEM7_DOCKER\DockerManager\obj\Debug\n
 C:\Users\pawel.WSIZPTIBB.000\Documents\WSI\SEM7_DOCKER\DockerManager\obj\Debug\net9.0-windows\DockerManager.genruntimeconfig.cache
 C:\Users\pawel.WSIZPTIBB.000\Documents\WSI\SEM7_DOCKER\DockerManager\obj\Debug\net9.0-windows\ref\DockerManager.dll
 C:\Users\pawel.WSIZPTIBB.000\Documents\WSI\SEM7_DOCKER\DockerManager\bin\Debug\net9.0-windows\MaterialSkin.dll
+C:\Users\pawel.WSIZPTIBB.000\Documents\WSI\SEM7_DOCKER\DockerManager\obj\Debug\net9.0-windows\DockerManager.sourcelink.json
